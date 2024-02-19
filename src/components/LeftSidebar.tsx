@@ -9,7 +9,7 @@ import LeaderBoard from "./LeaderBoard";
 const LeftSidebar = () => {
   return (
     <section
-      className="sticky left-0 top-0 flex h-screen flex-col bg-gradient-to-b from-custom-dark-green to-custom-dark-gray
+      className="sticky left-0 top-0 flex h-screen flex-col custom-scrollbar bg-gradient-to-b from-custom-dark-green to-custom-dark-gray
       justify-between overflow-y-auto p-6  shadow-md max-sm:hidden lg:w-[350px] 
     "
     >
